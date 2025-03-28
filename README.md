@@ -20,3 +20,18 @@ Si es par o primo.
 Su raíz cuadrada (redondeada).
 Si es divisible por 3.
 Su factorial (solo si es menor o igual a 20).
+
+
+Ejemplo de Uso:
+Hola alumnos y alumnas!👩‍🏫☺️
+¡Bienvenidos al cuestionario interactivo!📝
+Hoy aprenderemos curiosidades sobre números.👀🙌
+
+Introduce un número (o escribe -1 para salir): 7
+Curiosidades sobre el número:
+- Número original: 7
+- Es par: False
+- Es primo: True
+- Raíz cuadrada: 2.65
+- Factorial (si es pequeño): 5040
+- Es divisible por 3: False
