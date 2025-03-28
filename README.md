@@ -4,10 +4,10 @@ Bienvenido/a a mi proyecto interactivo de trivia sobre números! Este programa e
 
 Características 📋
 
--Genera un diccionario con datos interesantes sobre números.
--Aprende si un número es primo, par, divisible por 3 o incluso su raíz cuadrada.
--Calcula el factorial para números pequeños (¡sin sobrecargar tu sistema!).
--Diseño interactivo y fácil de usar desde la terminal.
+- Genera un diccionario con datos interesantes sobre números.
+Aprende si un número es primo, par, divisible por 3 o incluso su raíz cuadrada.
+Calcula el factorial para números pequeños (¡sin sobrecargar tu sistema!).
+Diseño interactivo y fácil de usar desde la terminal.
 
 Explorar las curiosidades:
 -Ingresa cualquier número para descubrir sus características matemáticas.
