@@ -28,6 +28,7 @@ Hola alumnos y alumnas!👩‍🏫☺️
 Hoy aprenderemos curiosidades sobre números.👀🙌
 
 Introduce un número (o escribe -1 para salir): 7
+
 Curiosidades sobre el número:
 - Número original: 7
 - Es par: False
